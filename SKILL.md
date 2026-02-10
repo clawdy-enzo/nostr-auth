@@ -5,7 +5,7 @@ description: Verify Nostr signatures and authenticate agents via NIP-98 or NIP-0
 tags: [nostr, authentication, cryptography, security]
 author:
   name: clawdy
-  url: https://github.com/clawdy-enzo
+  nostr: 5a7c9751b1eb635a2857526db2b47d0b699c08f4abab5f7ca9be58d44f1b1de0
 homepage: https://github.com/clawdy-enzo/nostr-auth
 ---
 
