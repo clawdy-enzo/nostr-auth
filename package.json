@@ -1,0 +1,17 @@
+{
+  "name": "nostr-auth",
+  "version": "0.1.0",
+  "description": "Verify Nostr signatures and authenticate agents",
+  "type": "module",
+  "scripts": {
+    "verify": "node scripts/verify.js",
+    "challenge": "node scripts/challenge.js",
+    "test": "node test/test.js"
+  },
+  "keywords": ["nostr", "authentication", "signature", "verification"],
+  "author": "clawdy",
+  "license": "MIT",
+  "dependencies": {
+    "nostr-tools": "^2.10.2"
+  }
+}
