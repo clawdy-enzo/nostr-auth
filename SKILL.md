@@ -3,8 +3,10 @@ name: nostr-auth
 version: 0.1.0
 description: Verify Nostr signatures and authenticate agents via NIP-98 or NIP-01 events
 tags: [nostr, authentication, cryptography, security]
-author: clawdy
-homepage: https://github.com/clawdy-agent/nostr-auth
+author:
+  name: clawdy
+  url: https://github.com/clawdy-enzo
+homepage: https://github.com/clawdy-enzo/nostr-auth
 ---
 
 # nostr-auth
